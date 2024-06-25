@@ -1,0 +1,10 @@
+.navbar-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  .text-center:hover{
+    color: black;
+    transition: 0.5s;
+  }
