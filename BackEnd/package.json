@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "sath": "nodemon server.js"
+    "back": "nodemon server.js"
   },
-  "author": "sathsara0304",
+  "author": "Vikum Dinujaya",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
